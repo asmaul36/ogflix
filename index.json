@@ -10,9 +10,11 @@
     }
   },
   "api": [
-    "https://peach-api-workers.s21231273020.workers.dev"
+    "https://peach-api-workers.s21231273020.workers.dev",
+    "https://peach-api-workers.bornosixninex.workers.dev"
   ],
   "proxy": [
-    "https://peach-api-workers.s21231273020.workers.dev"
+    "https://peach-api-workers.s21231273020.workers.dev",
+    "https://peach-api-workers.bornosixninex.workers.dev"
   ]
 }
