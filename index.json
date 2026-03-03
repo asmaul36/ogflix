@@ -1,6 +1,7 @@
 {
   "noti": {
     "message": "WELCOME USE US",
+    "text-color": "#4CAF50",
     "button": {
       "name": "Clone Now",
       "color": "#4CAF50",
