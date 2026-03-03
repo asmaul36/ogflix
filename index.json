@@ -1,10 +1,11 @@
 {
   "noti": {
     "message": "WELCOME USE US",
-    "text-color": "#4CAF50",
+    "text-color": "#fff",
     "button": {
       "name": "Clone Now",
-      "color": "#4CAF50",
+      "btn-txt-color": "#fff"
+      "color": "#D20510",
       "task": "close"
     }
   },
