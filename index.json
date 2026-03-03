@@ -1,12 +1,12 @@
 {
   "noti": {
-    "message": "WELCOME USE US",
+    "message": "JOIN TELEGRAM TO USE THIS WEB",
     "text-color": "#fff",
     "button": {
-      "name": "Clone Now",
+      "name": "JOIN",
       "btn-txt-color": "#fff",
       "color": "#D20510",
-      "task": "close"
+      "task": "https://t.me/+pHGONjTBYzsyZDY1"
     }
   },
   "api": [
