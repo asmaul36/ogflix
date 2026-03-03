@@ -4,7 +4,7 @@
     "text-color": "#fff",
     "button": {
       "name": "Clone Now",
-      "btn-txt-color": "#fff"
+      "btn-txt-color": "#fff",
       "color": "#D20510",
       "task": "close"
     }
