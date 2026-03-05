@@ -15,6 +15,7 @@
   ],
   "proxy": [
     "https://peach-api-workers.s21231273020.workers.dev",
-    "https://peach-api-workers.bornosixninex.workers.dev"
+    "https://peach-api-workers.bornosixninex.workers.dev",
+    "https://mp4-and-hls-source-proxy.basirulakhlakborno.deno.net"
   ]
 }
